@@ -2,6 +2,10 @@ Simple-Tabs
 
 ![Image Description](simple-tabs.png)
 
+Web Link 
+
+https://abh7n.github.io/simple-tabs/
+
 
 A lightweight, accessible, and customizable tabbed interface.
 
@@ -12,9 +16,6 @@ Features
 - Accessible and responsive design
 - Lightweight and efficient
 
-Demo
-
-(link unavailable)
 
 Installation
 
