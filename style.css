@@ -1,0 +1,42 @@
+body {
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.tabs {
+    width: 600px;
+    padding: 30px;
+  }
+  
+  .tab-buttons {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .tab-button {
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .tab-button.active {
+    border-bottom: 3px black solid;
+    color: #000000;
+  }
+  
+  .tab-content {
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+  }
+  
+  .tab-pane {
+    display: none;
+  }
+  
+  .tab-pane.active {
+    display: block;
+  }
+  
